@@ -1,0 +1,5 @@
+C:\c#\CodebitsAcademy_ScienceExibition\obj\x86\Debug\CodebitsAcademy_ScienceExibition.csprojAssemblyReference.cache
+C:\c#\CodebitsAcademy_ScienceExibition\bin\Debug\CodebitsAcademy_ScienceExibition.exe
+C:\c#\CodebitsAcademy_ScienceExibition\bin\Debug\CodebitsAcademy_ScienceExibition.pdb
+C:\c#\CodebitsAcademy_ScienceExibition\obj\x86\Debug\CodebitsAcademy_ScienceExibition.exe
+C:\c#\CodebitsAcademy_ScienceExibition\obj\x86\Debug\CodebitsAcademy_ScienceExibition.pdb

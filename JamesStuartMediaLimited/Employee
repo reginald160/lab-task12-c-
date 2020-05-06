@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace JamesStuartMediaLimited
+{
+	public class PromotedEmployeeDictionary
+	{
+		public PromotedEmployeeDictionary ()
+		{
+		}
+	}
+}
+
